@@ -12,3 +12,5 @@ Instalando a biblioteca chatterbot e selenium:
 pip install selenium
 pip install chatterbot
 ```
+
+Vesrsão do Python 3+
