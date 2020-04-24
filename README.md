@@ -13,4 +13,4 @@ pip install selenium
 pip install chatterbot
 ```
 
-Vesrsão do Python 3+
+Versão do Python 3+
